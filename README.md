@@ -58,4 +58,4 @@ Graphs and embeddings are visualized using PCA and Seaborn.
 
 ## 📬 Contact
 
-Have questions or feedback? Feel free to connect on [LinkedIn](https://www.linkedin.com).
+Have questions or feedback? Feel free to connect on [LinkedIn](https://www.linkedin.com/in/dan4o/).
